@@ -5,7 +5,7 @@
 ## Thông tin sinh viên
 
 - Họ và tên: [ Nguyễn Văn NGUYÊN  ]
-- Mã sinh viên – Lớp: [ 2071020144 - CNTT K65 ]
+- Mã sinh viên – Lớp: [ 2071020144 - CNTT K20-02 ]
 - Ngày thực hiện: [ 04/11/2026 ]
 - Link repository: [ https://github.com/nguyenvana/my-web-project ]
 - URL website: [ https://nguyenvana.github.io/my-web-project/ ]
