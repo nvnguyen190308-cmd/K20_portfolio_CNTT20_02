@@ -7,8 +7,8 @@
 - Họ và tên: [ Nguyễn Văn NGUYÊN  ]
 - Mã sinh viên – Lớp: [ 2071020144 - CNTT K20-02 ]
 - Ngày thực hiện: [ 04/11/2026 ]
-- Link repository: [ https://github.com/nguyenvana/my-web-project ]
-- URL website: [ https://nguyenvana.github.io/my-web-project/ ]
+- Link repository: [https://nvnguyen190308-cmd.github.io/K20_portfolio_CNTT20_02/#du-an]
+- URL website: [ https://github.com/nvnguyen190308-cmd/K20_portfolio_CNTT20_02 ]
 - Tình huống: [x] Website của tôi  [ ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
